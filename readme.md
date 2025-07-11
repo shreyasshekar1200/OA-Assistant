@@ -1,1 +1,1 @@
-This is an code Assistant
+This is an AI code Assistant
